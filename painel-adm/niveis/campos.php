@@ -1,0 +1,6 @@
+<?php
+
+//Variaveis dos inputs
+$campo1 = "Nivel";
+
+?>
