@@ -153,8 +153,8 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `nome`, `email`, `senha`, `nivel`) VALUES
-(8, 'Lazaro Henrique', 'lazaro@gmail.com', '$2y$10$HJkGrO4DjrcEqhyW8PufxO4KglSakFC5Z.jKypMpVb.Tm9t6Etyju', 18),
-(9, 'Rusbévaldo Silva', 'adwoki@gmail.com', '$2y$10$5feb.TuaaxmRsG8SVSbT2O9fIJOvOnrfO3d0SkIBEN5nStX9LjUsK', 4),
+(8, 'Lazaro Henrique', 'lazaro@gmail.com', '$2y$10$i5wAKogzu4s6AoOKqaSCreCbXgGJ/mB5mkBGEgJbXiCq9TUzh4XAW', 18),
+(9, 'Rusbévaldo Silva', 'adwoki@gmail.com', '$2y$10$i5wAKogzu4s6AoOKqaSCreCbXgGJ/mB5mkBGEgJbXiCq9TUzh4XAW', 4),
 (10, 'Jubiscreito Silva', 'jub@gmail.com', '$2y$10$3WG7ZVyOo5a42iavT0miy.uUI9.pQqQFL8AVZhH7CpEgZM1MKsPxy', 5),
 (11, 'Cleito Rasta', 'cleito@gmail.com', '$2y$10$JYL4UBroCXLDL6aS5odXbuav1XW0AV/2h5hDuhRtUhsy8yVwLhlw6', 5);
 
