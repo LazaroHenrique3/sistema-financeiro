@@ -1,4 +1,4 @@
-# Lista Tarefas
+# Controle de venda
 
 Projeto feito utilizando PHP estruturado e conceitos mais avançados de Javascript. Trata-se de um sistema simples para controle de venda de uma pequena 
 loja de eletrônicos, foram utilizados Jquery e também plugins Javascript como o Select2 e DataTables. Por fim Ajax para se comunicar com o backend.
